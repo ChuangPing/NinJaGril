@@ -1,0 +1,4 @@
+repository "NinjaGril@chuanpingu3d@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
